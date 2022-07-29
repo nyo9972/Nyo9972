@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://vuejsexamples.com/assets/vue.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg">
